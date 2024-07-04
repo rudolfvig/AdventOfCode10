@@ -1,3 +1,5 @@
+package org.example;
+
 public class Direction {
 
     private final Integer directionX;
